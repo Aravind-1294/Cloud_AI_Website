@@ -1,8 +1,11 @@
 openai
 langchain
 numpy
+tensorflow
 pandas
 bs4
 streamlit
 streamlit-lottie
 streamlit_chat
+pickle
+scikit-learn
